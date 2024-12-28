@@ -21,7 +21,7 @@ Currently seeking internships or junior positions in Database Administration and
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kgomotso-mahode-341520311/](https://www.linkedin.com/in/kgomotso-mahode-341520311/)
 
-- ⚡ Fun fact **I love music, history, philosophy & anime
+- ⚡ Fun fact **I love music, history, philosophy & anime**
 
 
 ![coding-anime](https://github.com/user-attachments/assets/a195a623-bc08-4e4b-a6cb-d4b4d386a7b2) ![sousuke-yamazaki-sosuke-yamazaki (1)](https://github.com/user-attachments/assets/f26fdbe3-0ecd-4a44-a409-7fdfa953ca58)   ![anime-houtarou](https://github.com/user-attachments/assets/09e70cf4-c107-4186-a03f-1660354e396e)
