@@ -24,7 +24,8 @@ Currently seeking internships or junior positions in Database Administration and
 - ⚡ Fun fact **I love music, history, philosophy & anime
 
 
-![coding-anime](https://github.com/user-attachments/assets/a195a623-bc08-4e4b-a6cb-d4b4d386a7b2) ![sousuke-yamazaki-sosuke-yamazaki](https://github.com/user-attachments/assets/e45d68bf-a9ab-4f83-a9d7-b2cf8311eb69)
+![coding-anime](https://github.com/user-attachments/assets/a195a623-bc08-4e4b-a6cb-d4b4d386a7b2) ![sousuke-yamazaki-sosuke-yamazaki (1)](https://github.com/user-attachments/assets/f26fdbe3-0ecd-4a44-a409-7fdfa953ca58)   ![anime-houtarou](https://github.com/user-attachments/assets/09e70cf4-c107-4186-a03f-1660354e396e)
+
 
 
 <h3 align="left">Connect with me:</h3>
