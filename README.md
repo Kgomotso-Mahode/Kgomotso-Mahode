@@ -3,6 +3,12 @@
 I'm a 3rd-year Software Development student with a strong foundation in Java, MySQL, Android development, Database Management, and Cyber Security. With a portfolio of projects under my belt, I'm eager to apply my skills in real-world settings. 
 Currently seeking internships or junior positions in Database Administration and Software Development. Let's connect!
 
+
+
+
+![one-piece-1piece](https://github.com/user-attachments/assets/75286b24-7546-499a-88fc-bbab41b2ddc9)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgomotso-mahode" alt="kgomotso-mahode" /></a> </p>
 
 - 🌱 I’m currently learning **Systems Analysis & Design, Project Management, Ethical Hacking & Cyber Law, Web Development: HTML, CSS, JavaScript, jQuery, & Software Testing**
@@ -15,7 +21,11 @@ Currently seeking internships or junior positions in Database Administration and
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kgomotso-mahode-341520311/](https://www.linkedin.com/in/kgomotso-mahode-341520311/)
 
-- ⚡ Fun fact **I love music, history, philosophy & anime ;)**
+- ⚡ Fun fact **I love music, history, philosophy & anime
+
+
+![coding-anime](https://github.com/user-attachments/assets/a195a623-bc08-4e4b-a6cb-d4b4d386a7b2) ![sousuke-yamazaki-sosuke-yamazaki](https://github.com/user-attachments/assets/e45d68bf-a9ab-4f83-a9d7-b2cf8311eb69)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
