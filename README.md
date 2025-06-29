@@ -1,5 +1,5 @@
+![Uploading Untitled design (1).png…]()
 
-![Untitled design (1)](https://github.com/user-attachments/assets/aff75d68-cc3d-4e37-aa01-20ebccc5b239)
 
 <h1 align="center">Hi 👋, I'm Kgomotso Mahode</h1>
 <h3 align="center">Full Stack Web & Software Developer</h3>
