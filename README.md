@@ -1,18 +1,16 @@
 
-![Untitled design (1)](https://github.com/user-attachments/assets/cf4b2b26-c36e-4c26-b362-a7361de79650)
+
 
 
 <h1 align="center">Hi 👋, I'm Kgomotso Mahode</h1>
-<h3 align="center">Full Stack Web & Software Developer</h3>
+<h3 align="center"> Web & Software Developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgomotso-mahode" alt="kgomotso-mahode" /></a> </p>
 
 - 🔭 I’m currently working on **Software Testing & API's**
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+- 🌱 I’m currently learning **Web Technologies**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kgomotso-mahode-341520311/](https://www.linkedin.com/in/kgomotso-mahode-341520311/)
-
-- 💬 Ask me about **Java, Python & Systems Analysis**
 
 - 📫 How to reach me **mahodekgomotso0303@gmail.com**
 
