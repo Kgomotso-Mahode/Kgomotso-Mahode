@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kgomotso Mahode</h1>
 <h3 align="center"> Business Analyst | Software Developer</h3>
-<img width="1536" height="1024" alt="ChatGPT Image Nov 23, 2025, 07_30_21 AM" src="https://github.com/user-attachments/assets/7baddd17-da2c-4fe3-85bd-b1096c68dff6" />
+<img width="1133" height="723" alt="ChatGPT Image Nov 23, 2025, 07_30_21 AM" src="https://github.com/user-attachments/assets/4baf5f53-eaf6-47af-97e4-7da870f1f59a" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgomotso-mahode" alt="kgomotso-mahode" /></a> </p>
 
