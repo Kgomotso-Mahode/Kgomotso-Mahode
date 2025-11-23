@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Kgomotso Mahode</h1>
 <h3 align="center"> Business Analyst | Software Developer</h3>
+<img width="1536" height="1024" alt="ChatGPT Image Nov 23, 2025, 07_30_21 AM" src="https://github.com/user-attachments/assets/7baddd17-da2c-4fe3-85bd-b1096c68dff6" />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgomotso-mahode" alt="kgomotso-mahode" /></a> </p>
 
 - 🔭 I’m currently working on **Software Testing**
