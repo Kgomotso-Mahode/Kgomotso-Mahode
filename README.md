@@ -1,9 +1,6 @@
-![Untitled design (1)](https://github.com/user-attachments/assets/cf4b2b26-c36e-4c26-b362-a7361de79650)
-
-
 
 <h1 align="center">Hi 👋, I'm Kgomotso Mahode</h1>
-<h3 align="center"> BusinessAnalyst|Software Developer</h3>
+<h3 align="center"> Business Analyst | Software Developer</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgomotso-mahode" alt="kgomotso-mahode" /></a> </p>
 
 - 🔭 I’m currently working on **Software Testing**
@@ -19,7 +16,7 @@
   
 ![Gojo Satoru Jujutsu Kaisen GIF - Gojo Satoru Jujutsu Kaisen - Discover   Share GIFs](https://github.com/user-attachments/assets/f56a468b-67f8-4acb-942d-9f6483bad916)
 
-<h1 align="center">My Journey Business Analysis & SoftwareDevelopment</h1>
+<h1 align="center">My Journey in Business Analysis & Software Development</h1>
 
 I pursued a Diploma in Information Technology-Software Development with a keen interest in building practical and scalable software solutions. As I progressed through my studies, I realized that while traditional software development roles were rewarding, they didn’t fully satisfy my appetite for challenging, multifaceted work. I found myself excelling in core programming tasks but I quickly realized I was craving something more dynamic, something that would push me further and allow me to apply my skills in more complex, integrated environments. This desire for deeper engagement and versatility led me to explore full stack and web development, where I could work across both front-end and back-end systems, combining creative and logical thinking. Alongside this, I developed a strong passion for systems analysis and design, where I could take a hands-on role in the full software development lifecycle—from initial feasibility studies and user interface design to database modeling, software architecture, and implementation. I found immense satisfaction in not just writing code, but understanding how every component fits together in a larger system, how business needs translate into functional software, and how design decisions impact user experience and performance. My passion for software development is ultimately rooted in continuous learning. Technology is constantly evolving, and I thrive on staying ahead—exploring new frameworks, learning new tools, and expanding my skill set. I’m driven by the excitement of solving problems, building solutions that matter, and evolving as a developer capable of working across disciplines, industries, and technologies. 
 
