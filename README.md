@@ -15,8 +15,6 @@
   
 ![Gojo Satoru Jujutsu Kaisen GIF - Gojo Satoru Jujutsu Kaisen - Discover   Share GIFs](https://github.com/user-attachments/assets/f56a468b-67f8-4acb-942d-9f6483bad916)
 
-![download](https://github.com/user-attachments/assets/194f70d8-4477-40c8-93b1-6b3045eb72cf)
-
 
 <h1 align="center">My Journey in Information Technology</h1>
 
