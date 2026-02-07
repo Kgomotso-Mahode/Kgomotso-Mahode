@@ -1,24 +1,21 @@
-
-<h1 align="center">Hi 👋, I'm Kgomotso Mahode</h1>
-<h3 align="center"> Business Analyst | Software Developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kgomotso-mahode" alt="kgomotso-mahode" /></a> </p>
-
-- 🌱 I’m currently learning **Business Analysis**
+<p align="center">
+<img width="738" height="168" alt="yoykg" src="https://github.com/user-attachments/assets/20bda1b5-f187-45e7-9e4c-d485a0adb60f" />
+</p>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kgomotso-mahode-341520311/](https://www.linkedin.com/in/kgomotso-mahode-341520311/)
 
 - 📫 How to reach me **mahodekgomotso0303@gmail.com**
 
-- ⚡ Fun fact **I love anime & reading**
-
-  
-![Gojo Satoru Jujutsu Kaisen GIF - Gojo Satoru Jujutsu Kaisen - Discover   Share GIFs](https://github.com/user-attachments/assets/f56a468b-67f8-4acb-942d-9f6483bad916)
-
 
 <h1 align="center">My Journey in Information Technology</h1>
 
-I pursued a Diploma in Information Technology-Software Development with a keen interest in building practical and scalable software solutions. As I progressed through my studies, I realized that while traditional software development roles were rewarding, they didn’t fully satisfy my appetite for challenging, multifaceted work. I found myself excelling in core programming tasks but I quickly realized I was craving something more dynamic, something that would push me further and allow me to apply my skills in more complex, integrated environments. This desire for deeper engagement and versatility led me to explore full stack and web development, where I could work across both front-end and back-end systems, combining creative and logical thinking. Alongside this, I developed a strong passion for systems analysis and design, where I could take a hands-on role in the full software development lifecycle from initial feasibility studies and user interface design to database modeling, software architecture, and implementation. I found immense satisfaction in not just writing code, but understanding how every component fits together in a larger system, how business needs translate into functional software, and how design decisions impact user experience and performance. My passion for software development is ultimately rooted in continuous learning. Technology is constantly evolving, and I thrive on staying ahead, exploring new frameworks, learning new tools, and expanding my skill set. I’m driven by the excitement of solving problems, building solutions that matter, and evolving as a developer capable of working across disciplines, industries, and technologies. 
+I hold a Diploma in Information &  Communications Technology (Systems Development) and currently work as a Junior Developer. My career journey has been driven by a strong interest in building practical, scalable software solutions that solve real-world problems.
+
+As I gained hands-on industry experience, I discovered that my strengths and interests extend beyond traditional development tasks. While I enjoy writing clean, efficient code, I am especially motivated by roles that allow me to engage with both the technical and business sides of systems. This led me to deepen my involvement in full-stack and web development, where I work across front-end and back-end technologies, blending logical problem-solving with user-focused design.
+
+In parallel, I developed a strong passion for systems analysis and design. I enjoy being involved throughout the full software development lifecycle—from understanding business requirements and conducting feasibility analysis to designing user interfaces, modeling databases, defining system architecture, and supporting implementation. I find fulfillment in translating business needs into functional, well-designed software solutions and ensuring that technical decisions align with user experience and performance goals.
+
+My passion for technology is rooted in continuous learning and growth. I thrive in dynamic environments where I can explore new tools, frameworks, and methodologies, refine my analytical thinking, and expand my technical skill set. I am driven by the challenge of solving complex problems and evolving as a versatile professional who bridges the gap between business and technology.
 
 
 <h3 align="left">Languages and Tools:</h3>
