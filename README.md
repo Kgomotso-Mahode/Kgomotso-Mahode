@@ -4,7 +4,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kgomotso-mahode-341520311/](https://www.linkedin.com/in/kgomotso-mahode-341520311/)
 
-- 📫 How to reach me **mahodekgomotso03@gmail.com**
+- 📫 How to reach me **mahodekgomotso0303@gmail.com**
 
 
 <h1 align="center">My Journey in Information Technology</h1>
