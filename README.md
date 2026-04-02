@@ -1,9 +1,9 @@
 <p align="center">
-<img width="700" height="250" alt="fsd" src="https://github.com/user-attachments/assets/88313905-5d2c-4db2-87b6-989fdee2ce66" />
+  <img width="651" height="205" alt="fsd" src="https://github.com/user-attachments/assets/9ba8ee00-2c5e-44e0-9f08-6314b997c66a" />
 </p>
-<h1 align="center">Hey there👋, I'm Kgomotso </h1>
+<h1 align="center">Hi👋, I'm Kgomotso </h1>
 <p align="center">
-<img width="350" height="350" alt="excited" src="https://github.com/user-attachments/assets/895f6d02-2005-43d5-97a4-7b2c46b9ab06" />
+<img width="300" height="300" alt="excited" src="https://github.com/user-attachments/assets/895f6d02-2005-43d5-97a4-7b2c46b9ab06" />
 </p>
 <h1 align="center">Brief About me</h1>
 
