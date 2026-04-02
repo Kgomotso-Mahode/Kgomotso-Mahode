@@ -5,7 +5,7 @@
 <p align="center">
 <img width="300" height="300" alt="excited" src="https://github.com/user-attachments/assets/895f6d02-2005-43d5-97a4-7b2c46b9ab06" />
 </p>
-<h1 align="center">Brief About me</h1>
+<h1 align="center">⭐Brief About me⭐</h1>
 
 🤝 I’m interested in collaborating on projects involving:
   - Web applications  
