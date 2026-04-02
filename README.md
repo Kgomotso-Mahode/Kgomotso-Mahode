@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hey there I'm Kgomotso Mahode</h1>
 <p align="center">
-<img width="512" height="512" alt="excited" src="https://github.com/user-attachments/assets/895f6d02-2005-43d5-97a4-7b2c46b9ab06" />
+<img width="350" height="350" alt="excited" src="https://github.com/user-attachments/assets/895f6d02-2005-43d5-97a4-7b2c46b9ab06" />
 </p>
 <h1 align="center">Brief About me</h1>
 
