@@ -1,5 +1,5 @@
 <p align="center">
-<img width="651" height="205" alt="fsd" src="https://github.com/user-attachments/assets/88313905-5d2c-4db2-87b6-989fdee2ce66" />
+<img width="700" height="250" alt="fsd" src="https://github.com/user-attachments/assets/88313905-5d2c-4db2-87b6-989fdee2ce66" />
 </p>
 <h1 align="center">Hey there👋, I'm Kgomotso </h1>
 <p align="center">
