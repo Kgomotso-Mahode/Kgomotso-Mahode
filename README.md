@@ -1,7 +1,7 @@
 <p align="center">
 <img width="651" height="205" alt="fsd" src="https://github.com/user-attachments/assets/88313905-5d2c-4db2-87b6-989fdee2ce66" />
 </p>
-<h1 align="center">Hey there I'm Kgomotso Mahode</h1>
+<h1 align="center">Hey there👋, I'm Kgomotso </h1>
 <p align="center">
 <img width="350" height="350" alt="excited" src="https://github.com/user-attachments/assets/895f6d02-2005-43d5-97a4-7b2c46b9ab06" />
 </p>
