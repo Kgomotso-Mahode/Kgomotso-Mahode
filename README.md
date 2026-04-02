@@ -1,6 +1,11 @@
 <p align="center">
-<img width="738" height="168" alt="yoykg" src="https://github.com/user-attachments/assets/20bda1b5-f187-45e7-9e4c-d485a0adb60f" />
+<img width="651" height="205" alt="fsd" src="https://github.com/user-attachments/assets/88313905-5d2c-4db2-87b6-989fdee2ce66" />
 </p>
+<h1 align="center">Hey there I'm Kgomotso Mahode</h1>
+<p align="center">
+<img width="512" height="512" alt="excited" src="https://github.com/user-attachments/assets/895f6d02-2005-43d5-97a4-7b2c46b9ab06" />
+</p>
+<h1 align="center">Brief About me</h1>
 
 🤝 I’m interested in collaborating on projects involving:
   - Web applications  
