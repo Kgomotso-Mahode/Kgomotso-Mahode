@@ -45,24 +45,8 @@ I have developed a strong passion for business analysis and process management. 
 In addition, I am skilled in systems analysis and design, and I am comfortable working through the full software development lifecycle from gathering requirements and conducting feasibility analysis to designing system architectures, modeling databases, and supporting implementation. I enjoy translating business needs into structured technical solutions that balance functionality, usability, and performance.
 
 I am passionate about continuous learning and growth, and I thrive in environments where I can explore new technologies, strengthen my analytical thinking, and contribute to solving meaningful problems. My goal is to continue developing as a versatile professional who bridges the gap between business and technology while delivering impactful solutions.
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills</h3>
+
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <!-- keep the rest of your icons here -->
+HTML • CSS • Git • JavaScript • ReactJS • Redux • Routing • API Calls • Context API • Hooks • NodeJS • NPM • Express • REST APIs • MongoDB • Postman • Async/Await • Python • Object-Oriented Programming (OOP) • Cursor AI • LangChain • n8n • AI Agents • Full Stack Development • MERN Stack
 </p>
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kgomotso-mahode&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=kgomotso-mahode&show_icons=true&locale=en" alt="GitHub Stats" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kgomotso-mahode&" alt="GitHub Streak" height="180"/>
-</p>
-
