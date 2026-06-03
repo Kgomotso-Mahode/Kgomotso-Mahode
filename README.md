@@ -33,18 +33,16 @@
 
 📫 How to reach me **mahodekgomotso0303@gmail.com**
 
-
 <h1 align="center">My Growth and Experience in Information Technology</h1>
+Junior Full Stack Developer, BI Analyst, and AI Developer with a Diploma in Systems Development, currently completing an Advanced Diploma in Information Resource Management at the University of South Africa (UNISA). I also completed a Full Stack Web Development Bootcamp through Zaio Institute of Technology in collaboration with YoYo SA Services (PTY) LTD, where I strengthened my expertise in modern web technologies, software development methodologies, and real-world project implementation.
 
-I hold a Diploma in Information & Communications Technology (Systems Development) and am currently completing an Advanced Diploma in Information Resource Management at the University of South Africa. I currently work as a Junior Full Stack Developer, where I focus on building practical, scalable software solutions that solve real-world problems.
+I specialize in building practical, scalable web applications and supporting organizations through the complete implementation lifecycle, including requirements gathering, system configuration, testing, deployment, user training, and post-implementation support. My experience spans both software development and technical implementation consulting, enabling me to translate business requirements into effective technical solutions that improve efficiency and support organizational goals.
 
-My career journey has been driven by a strong interest in both software development and business analysis. I enjoy working across front-end and back-end technologies to build user-focused applications, while ensuring that the systems I develop are efficient, maintainable, and aligned with business needs.
+My background includes collaborating with stakeholders and development teams to design and implement system and web application solutions, conducting User Acceptance Testing (UAT), managing defect tracking and issue resolution, and creating functional documentation such as process flows, user guides, and technical specifications to ensure successful project delivery and user adoption.
 
-I have developed a strong passion for business analysis and process management. I enjoy understanding business requirements, analyzing workflows, and identifying opportunities to improve and optimize processes. I am particularly interested in how technology can be used to streamline operations, enhance efficiency, and support better decision-making within organizations.
+Through my experience with YoYo SA Services (PTY) LTD under the YES Programme, I have developed responsive web and e-commerce applications,  performed testing and debugging, and contributed to the delivery of user-focused digital solutions. In addition, I leverage Artificial Intelligence technologies to enhance development workflows, automate processes, build AI-powered applications, and improve software efficiency and innovation.
 
-In addition, I am skilled in systems analysis and design, and I am comfortable working through the full software development lifecycle from gathering requirements and conducting feasibility analysis to designing system architectures, modeling databases, and supporting implementation. I enjoy translating business needs into structured technical solutions that balance functionality, usability, and performance.
-
-I am passionate about continuous learning and growth, and I thrive in environments where I can explore new technologies, strengthen my analytical thinking, and contribute to solving meaningful problems. My goal is to continue developing as a versatile professional who bridges the gap between business and technology while delivering impactful solutions.
+My technical skill set includes front-end and back-end development, database design and management using SQL and NoSQL technologies, API development and integration, cloud-based solutions, data visualization using Power BI and Microsoft Excel, and AI-assisted software development. I am passionate about bridging the gap between business and technology by delivering solutions that drive digital transformation, optimize processes, and create measurable business value.
 <h3 align="left">Skills</h3>
 
 <p align="left">
